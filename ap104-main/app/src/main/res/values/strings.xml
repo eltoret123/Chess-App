@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChessApp</string>
+    <string name="against">Against:</string>
+    <string name="register">Register</string>
+    <string name="welcome_to_chessmania">Welcome to ChessMania!</string>
+    <string name="enter">Enter</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+</resources>
