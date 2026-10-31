@@ -1,0 +1,1 @@
+For the course on Programming Techniques me and Ilias Karakonstantis build a Chess app that can be played among two different devices. We worked with a centralised database and used SQL to make amendments. Furthermore, we then called chatgpt to give suggestions and teach the user how to play better chess.
